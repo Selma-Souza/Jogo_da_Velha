@@ -1,19 +1,23 @@
 body {
     font-family: sans-serif;
+    background-image: url(../img/fundo1.jpg);;
 }
 table, .configurador, #tempo {
     width: 500px;
     margin: auto;
-    border: 1px solid black;
+    border: 5px solid rgb(9, 93, 65);
     border-collapse: collapse;
+    background-color:aquamarine;
+    color: rgb(9, 93, 65);
 }
 table td {
-    border: 1px solid black;
+    border: 5px solid rgb(9, 93, 65);
     height: 166px;
     width: 166px;
     text-align: center;
     font-size: 96px;
 }
+
 .configurador, #tempo {
     text-align: center;
     border: none;
@@ -39,6 +43,6 @@ table td {
     background-color: #fafafa;
     margin-bottom: 10px;
     height: 40px;
-    border: 1px solid lightgray;
+    border: 5px solid rgb(9, 93, 65);
     color: gray;
 }
