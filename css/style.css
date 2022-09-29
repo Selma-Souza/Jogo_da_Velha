@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-image: url(../img/fundo1.jpg);;
+    background-image: url(../img/fundo1.jpg);
 }
 table, .configurador, #tempo {
     width: 500px;
